@@ -4,14 +4,14 @@
 banner() {
     clear
     echo -e "\e[1;33m"
-    echo " _____ _  __ __  __  ____  _   _ _____ ____  ______   __"
-    echo "|  ___| |/ / \ \/ / / ___|| | | | ____|  _ \|  _ \ \ / /"
-    echo "| |_  | \' /   \  /  \___ \| |_| |  _| | |_) | |_) \ V / "
-    echo "|  _| | . \   /  \   ___) |  _  | |___|  _ <|  _ < | |  "
-    echo "|_|   |_|\_\ /_/\_\ |____/|_| |_|_____|_| \_\_| \_\|_|  "
+    echo " | \        / | | |         | | |||| ///////////"
+    echo " | | \    / | | | |         | | |  |       ///"
+    echo " | |   | |  | | | |         | | |  |     ///"
+    echo " | |   | |  | | | |         | | |  |   ///"
+    echo " |_|   |_|  |_| | | | | | | | | |||| ///////////"
     echo "                                                        "
     echo -e "\e[1;31m       DARK WEB RAIDERS CALL BUMPER TOOL\e[0m"
-    echo -e "\e[1;31m[+] Developed by: FK HACKER\e[0m"
+    echo -e "\e[1;31m[+] Developed by: MUIZ\e[0m"
     echo -e "\e[1;34m[+] Join my WhatsApp Channel:\e[0m \e[4;36mhttps://whatsapp.com/channel/0029Vb3SOvACMY0N5PlQOO3G"
     echo ""
 }
@@ -60,3 +60,4 @@ while true; do
     sleep 3
 
 done
+
